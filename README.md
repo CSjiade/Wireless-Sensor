@@ -1,7 +1,7 @@
 # SensorTag Project for Wireless Networking course 
 
 ![App Interface Diagram](https://github.com/CSjiade/Wireless-Sensor/blob/main/A.png)
-![App Interface Diagram](https://github.com/CSjiade/Wireless-Sensor/blob/main/B.png)
+![App Interface Diagram2](https://github.com/CSjiade/Wireless-Sensor/blob/main/B.png)
 
 **Background:** Purpose of project is embedded software development where we implement proximity detection between two CC2650 sensortags <br/>
 **Tools used** <br/>
