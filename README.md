@@ -17,3 +17,4 @@ C, Contiki OS and Cooja, CC2650 SensorTag and UniFlash <br/>
 # System Architecture <br />
 ![Overall Block Diagram](https://github.com/CSjiade/Wireless-Sensor/blob/main/C.png)
 
+### Done by: Chen Kaibin,Chan Jun Ren, Ren Hao, Lian Jiade
